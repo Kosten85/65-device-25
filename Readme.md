@@ -1,6 +1,6 @@
 # Личный проект «Девайс»
 
-* Студент: [Алексей Кулабухов](https://up.htmlacademy.ru/htmlcss/25/user/622685).
+* Студент: [Константин Корнилов](https://up.htmlacademy.ru/htmlcss/25/user/622685).
 * Наставник: [Александр Кошара](https://htmlacademy.ru/profile/rednaxxxela).
 
 ---
